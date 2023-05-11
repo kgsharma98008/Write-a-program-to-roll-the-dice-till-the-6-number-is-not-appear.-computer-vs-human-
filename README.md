@@ -1,0 +1,1 @@
+# Write-a-program-to-roll-the-dice-till-the-6-number-is-not-appear.-computer-vs-human-
